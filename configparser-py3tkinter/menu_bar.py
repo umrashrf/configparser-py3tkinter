@@ -1,6 +1,8 @@
 import sys
 import tkinter
 
+from tkinter.filedialog import askopenfilename
+
 from .translation import _
 from .popup_dialog import PopupDialog
 
