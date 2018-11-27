@@ -28,6 +28,8 @@ class NavigationBar(ttk.Frame):
         received."""
 
         widget = event.widget
+        if not isinstance(widget, tkinter.Listbox):
+            return
         _index = int(widget.curselection()[0])
         _value = widget.get(_index)
         print(_('List item'), ' %d / %s' % (_index, _value))
