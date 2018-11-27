@@ -1,0 +1,118 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: messages\n"
+"POT-Creation-Date: 2016-06-16 11:20+PDT\n"
+"PO-Revision-Date: 2016-06-16 12:42-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 1.6.10\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es\n"
+
+#: configparser-py3tkinter.py:37
+msgid "OK"
+msgstr "De acuerdo"
+
+#: configparser-py3tkinter.py:61
+msgid "Navigation "
+msgstr "Navegación "
+
+#: configparser-py3tkinter.py:74
+msgid "List item"
+msgstr "Producto en la lista"
+
+#: configparser-py3tkinter.py:88
+msgid "Unset status "
+msgstr "estado desarmado "
+
+#: configparser-py3tkinter.py:108
+msgid "Tool "
+msgstr "Herramienta "
+
+#: configparser-py3tkinter.py:118
+msgid "Toolbar button"
+msgstr "botón de la barra"
+
+#: configparser-py3tkinter.py:118
+msgid "pressed"
+msgstr "presionado"
+
+#: configparser-py3tkinter.py:127
+msgid "Template"
+msgstr "Modelo"
+
+#: configparser-py3tkinter.py:155
+msgid "New"
+msgstr "Nuevo"
+
+#: configparser-py3tkinter.py:156
+msgid "Open"
+msgstr "Abierto"
+
+#: configparser-py3tkinter.py:159
+msgid "Exit"
+msgstr "Salida"
+
+#: configparser-py3tkinter.py:163 configparser-py3tkinter.py:170
+msgid "Help"
+msgstr "Ayuda"
+
+#: configparser-py3tkinter.py:165 configparser-py3tkinter.py:195
+msgid "About"
+msgstr "Sobre"
+
+#: configparser-py3tkinter.py:169
+msgid "File"
+msgstr "Archivo"
+
+#: configparser-py3tkinter.py:180
+msgid "Help not yet created."
+msgstr "Ayudará aún no creado."
+
+#: configparser-py3tkinter.py:188
+msgid "No description available"
+msgstr "No hay descripción disponible"
+
+#: configparser-py3tkinter.py:190
+msgid "Author"
+msgstr "Autor"
+
+#: configparser-py3tkinter.py:191
+msgid "Email"
+msgstr "Email"
+
+#: configparser-py3tkinter.py:192
+msgid "Version"
+msgstr "Versión"
+
+#: configparser-py3tkinter.py:193
+msgid "GitHub Package"
+msgstr "GitHub paquete"
+
+#: configparser-py3tkinter.py:201
+msgid "New button pressed"
+msgstr "Nuevo botón presionado"
+
+#: configparser-py3tkinter.py:201
+msgid "Not yet implemented"
+msgstr "Aun no implementado"
+
+#: configparser-py3tkinter.py:208
+msgid "File selected for open: "
+msgstr "Archivo seleccionado para abrir:"
+
+#: configparser-py3tkinter.py:210
+msgid "No file selected"
+msgstr "Ningún archivo seleccionado"
+
+#: configparser-py3tkinter.py:252
+msgid "Uptime"
+msgstr "Uptime"
